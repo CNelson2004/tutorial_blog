@@ -1,0 +1,8 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    href: blog.qmd\
+    title: blog

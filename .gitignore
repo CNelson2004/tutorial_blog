@@ -1,2 +1,6 @@
 __pycache__/
 *pyc
+/.quarto/
+site_libs/
+index_files
+**/*.quarto_ipynb
