@@ -1,6 +1,7 @@
 ---
-title: "About Me"
+title: "Blog"
 jupyter: python3
 ---
 
-# This is where the title goes
+# A temporary title
+Some text
