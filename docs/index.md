@@ -1,2 +1,6 @@
-# Another Temporary Note
-Perhaps this is project documentation
+---
+title: "About Me"
+jupyter: python3
+---
+
+# This is where the title goes
