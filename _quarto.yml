@@ -8,3 +8,5 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: blog.qmd
+        text: Data Visualization
