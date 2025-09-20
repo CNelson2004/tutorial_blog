@@ -1,0 +1,8 @@
+---
+title: "My Data Science Blog"
+jupyter: python3
+format: html
+---
+
+# Title location?
+This is a Quarto test page

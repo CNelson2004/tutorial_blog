@@ -1,7 +1,0 @@
----
-title: "My Blog"
-jupyter: python3
----
-
-# My title
-Just a bit of text

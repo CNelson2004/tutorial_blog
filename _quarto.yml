@@ -2,7 +2,9 @@ project:
   type: website
   output-dir: docs
 
-format:
-  html:
-    href: blog.qmd\
-    title: blog
+website:
+  title: "My Data Science Blog"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
